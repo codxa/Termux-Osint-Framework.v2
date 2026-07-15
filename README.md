@@ -1,6 +1,4 @@
-**Termux OSINT komut paneli.**
-
-Açık kaynak istihbarat çalışmaların için 10 kategoride 50+ araç, tek link listesi değil — her biri açıklamalı ve favori/geçmiş/not sistemiyle tek terminalde.
+**Termux OSINT Kütüphanesi v2.**
 
 ![Python](https://img.shields.io/badge/Python-3%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-Uyumlu-39ff14?style=for-the-badge)
@@ -26,19 +24,6 @@ root@codx:~$ python codx_osint.py
 
   → 10 kategori · 50+ araç kartı
 ```
-
----
-
-## ⚡ Neden CODX?
-
-- 🎯 **Sekme dağınıklığı yok** — kategoriye gir, aracı bul, numarayı yaz, link açılsın ya da panoya kopyalansın.
-- 📝 **Not sistemi** — beğendiğin araca kendi notunu düş, `N#` ile anında ekle.
-- ⭐ **Favoriler** — sık kullandıklarını `F#` ile favoriye at, ayrı menüden tek tuşla aç.
-- 🕐 **Geçmiş** — son 10 ziyaretin otomatik kaydedilir, kaybolmaz.
-- 🔍 **Arama** — araç adı ya da açıklamasına göre anında filtrele.
-- 🔒 **%100 yerel** — hiçbir veri dışarı gitmez, favoriler/geçmiş/notlar sadece `~/.codx_*.json` dosyalarında durur.
-
----
 
 ## 🚀 Kurulum
 
