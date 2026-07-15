@@ -30,9 +30,9 @@ root@codx:~$ python codx_osint.py
 > Termux ya da herhangi bir Linux terminalinde 10 saniye:
 
 ```
-git clone https://github.com/codxa/CODX-OSINT-Framework.git
-cd CODX-OSINT-Framework
-python codx_osint.py
+git clone https://github.com/codxa/Termux-Osint-Framework.v2.git
+cd Termux-Osint-Framework.v2
+python osintframeworkv2.py
 ```
 
 Termux'ta python yoksa önce `pkg install python` çalıştır.
